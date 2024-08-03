@@ -16,8 +16,9 @@ I am a statistician with a passion for data analysis and interpretation. I thriv
 - **Programming Languages:** R, SAS
 - **Tools & Technologies:** RStudio, Git, SQL
 - **Specialties:** Statistical Modeling, Data Analysis, Data Visualization
-
-### Current Projects
+- 
+**###📚 Current Projects:**
+###  Projects
 - Developing a comprehensive guide to data manipulation using `dplyr` in R.
 - Working on a project to integrate ESG factors into financial analysis and risk assessments.
 - Creating README files and documentation for various R programming projects on GitHub.

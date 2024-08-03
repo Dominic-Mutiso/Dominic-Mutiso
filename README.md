@@ -12,7 +12,7 @@ I am a statistician with a passion for data analysis and interpretation. I thriv
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy reading about the latest developments in data science and I'm a fitness enthusiast.
 
-### My Skills
+**💡 My Skills**
 - **Programming Languages:** R, SAS
 - **Tools & Technologies:** RStudio, Git, SQL
 - **Specialties:** Statistical Modeling, Data Analysis, Data Visualization

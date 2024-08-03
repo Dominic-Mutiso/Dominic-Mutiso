@@ -23,7 +23,7 @@ I am a statistician with a passion for data analysis and interpretation. I thriv
 - Creating README files and documentation for various R programming projects on GitHub.
 
 **🌐 Get in Touch:**
-I'm always open to discussing new ideas, projects, or opportunities to collaborate. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com)
+- I'm always open to discussing new ideas, projects, or opportunities to collaborate. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com)
 
 ---
 

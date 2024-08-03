@@ -13,7 +13,7 @@ Dominic is a Certified Advanced SAS Programmer with a strong aptitude for Statis
 
 **💡 My Skills**
 - **Programming Languages:** R, SAS
-- **Tools & Technologies:** RStudio, Git, SQL
+- **Tools & Technologies:** RStudio, Git, SQL, 📄 LaTeX
 - **Specialties:** CDISC: SDTM & ADaM | TLFs | Statistical Modeling | Data Manipulation | Data Analysis
 
 **📚 Current Projects:**

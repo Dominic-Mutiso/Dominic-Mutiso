@@ -1,14 +1,13 @@
 ## Hi there 👋
 
-Dominic is a Certified Advanced SAS Programmer with a strong aptitude for Statistical programming using SAS and R. Dominic has worked as a Clinical SAS Programmer, leveraging these skills to help in Clinical Trial Reporting.
+Dominic is a Certified Advanced SAS Programmer with a strong aptitude for Statistical programming using SAS and R. Dominic has worked as a Clinical SAS Programmer, leveraging these skills to support Clinical Trial Reporting.
 
 ### About Me
-- 🔭 I’m currently working on various projects involving data manipulation and analysis in R and SAS.
+- 🔭 Skilled in data manipulation and analysis using R and SAS.
 - 🌱 **Therapeutic areas:** Oncology
-- 👯 I’m looking to collaborate on projects related to Data Science, Statistics, SAS and R programming.
 - 💬 Ask me about Statistics and Statistical Programming- (SAS and R programming)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com)
-- ⚡ Fun fact: I enjoy reading about the latest developments in data science.
+- ⚡ Fun fact: I enjoy reading about the latest developments in Data Science and Statistics.
 
 **💡 My Skills**
 - **Programming Languages:** R, SAS
@@ -16,11 +15,10 @@ Dominic is a Certified Advanced SAS Programmer with a strong aptitude for Statis
 - **Specialties:** CDISC: SDTM & ADaM | TLFs | Statistical Modeling | Data Manipulation | Data Analysis
 
 **📚 Current Projects:**
-- Developing a comprehensive guide to data manipulation using `dplyr` in R.
-- Creating README files and documentation for various R programming projects on GitHub.
+- Clinical Reporting in R
 
 **🌐 Get in Touch:**
-- I'm always open to discussing new ideas, projects, or opportunities to collaborate. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com)
+- I'm always open to discussing new ideas, projects, or opportunities. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com)
 
 ---
 

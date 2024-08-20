@@ -6,9 +6,8 @@ Dominic is a Certified Advanced SAS Programmer with a strong aptitude for Statis
 - 🔭 I’m currently working on various projects involving data manipulation and analysis in R and SAS.
 - 🌱 **Therapeutic areas:** Oncology
 - 👯 I’m looking to collaborate on projects related to Data Science, Statistics, SAS and R programming.
-- 💬 Ask me about Statistics, SAS and R programming
+- 💬 Ask me about Statistics and Statistical Programming- (SAS and R programming)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy reading about the latest developments in data science.
 
 **💡 My Skills**

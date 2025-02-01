@@ -18,7 +18,7 @@ Dominic is a Certified Advanced SAS Programmer with a strong aptitude for Statis
 - Clinical Reporting in R
 
 **🌐 Get in Touch:**
-- I'm always open to discussing new ideas, projects, or opportunities. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com)
+- I'm always open to discussing new ideas, projects, or opportunities. Find me me on [LinkedIn](https://www.linkedin.com)
 
 ---
 
